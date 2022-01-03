@@ -1,0 +1,79 @@
+.nav-link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.text{
+    color: yellow;
+}
+.text1{
+    color: blueviolet;
+}
+.textheader{
+    color:yellow;
+}
+img:nth-child(1){
+    opacity: 1;
+    backface-visibility: hidden;
+}
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-decoration: none;
+    text-align: center;
+    color:yellow;
+    font-size: 60px;
+    transform: translate(-50%, -50%);
+    
+   
+    
+}
+img:nth-child(1):hover{
+    opacity: 1;
+    
+
+}
+.caption:hover{
+    opacity: 1;
+}
+.text2{
+color:blue;
+}
+.text3{
+    color:red;
+}
+
+
+
+.java{
+    font-size: 13px;
+}
+
+.chartheader{
+    font-size: 13px;
+}
+h5{
+color:yellow;
+}
+.text4{
+    color:lightgreen;
+}
+
+
+
+.Logoname{
+    color:blue;
+}
+.Logoname1{
+    color:Yellow;
+}
